@@ -1,5 +1,7 @@
 name: libvips-install
-version: 0.0.2
-description: Install libvips
+version: 0.0.3
+description: Install libvips on Ubuntu 12.04
 keywords:
   - libvips
+  - vips
+  - libvips-dev
