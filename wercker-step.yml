@@ -1,0 +1,5 @@
+name: install-libvips
+version: 0.0.1
+description: Install libvips
+keywords:
+  - libvips
