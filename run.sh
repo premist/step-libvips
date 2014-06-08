@@ -21,7 +21,7 @@ success 'Cloned libvips'
 info 'Installing libvips'
 ./bootstrap.sh
 ./configure --enable-debug=no --enable-cxx=no --without-python --without-orc
-make
+make -j8
 sudo make install
 sudo ldconfig
 success 'Installed libvips'
