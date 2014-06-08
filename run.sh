@@ -9,7 +9,7 @@ sudo apt-get install libtiff4-dev -y
 success 'Installed libtiff4-dev'
 
 info 'Installing build tools'
-sudo apt-get install automake build-essential git gobject-introspection gtk-doc-tools libfftw3-dev libglib2.0-dev libjpeg-turbo8-dev libpng12-dev libwebp-dev libtiff5-dev libexif-dev libxml2-dev swig -y
+sudo apt-get install automake build-essential git gobject-introspection gtk-doc-tools libfftw3-dev libglib2.0-dev libjpeg-turbo8-dev libpng12-dev libwebp-dev libexif-dev libxml2-dev swig -y
 success 'Installed build tools'
 
 info 'Cloning libvips'
